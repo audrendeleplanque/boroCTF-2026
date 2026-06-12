@@ -9,13 +9,11 @@
 
 | CTF | Date | Score | Classement | Challenges résolus |
 |-----|------|-------|------------|--------------------|
-| [boroCTF 2026](#borocTF-2026) | xx/xx/2026 | — pts | —/— | — |
+| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | — pts | —/— | —/— |
 
 ---
 
 ## 🗂️ boroCTF 2026
-
-> **Date** : xx/xx/2026 · **Score** : — pts · **Classement** : —/—
 
 | # | Challenge | Catégorie | Points | Writeup |
 |---|-----------|-----------|--------|---------|
