@@ -1,7 +1,7 @@
 # Challenge Name
 
 > **CTF** : boroCTF 2026  
-> **Catégorie** : `web` · **Points** : 200 · **Solves** : 42  
+> **Catégorie** : `web` · **Points** : 100 · **Solves** : 42  
 > **Difficulté** : easy  
 > **Auteur** : challenge-author
 
