@@ -11,11 +11,11 @@
 
 ### Texte originial
 
-> *Muhahaha! The Organization thinks they can silence me, but I, Hououin Kyouma, have uncovered a lead. My assistant — the self-proclaimed neuroscience prodigy — harbors a secret so embarrassing it could shake the very fabric of her dignity. An old @channel handle. Find it, and her profile is yours. El. Psy. Kongroo.*
+> Muhahaha! The Organization thinks they can silence me, but I, Hououin Kyouma, have uncovered a lead. My assistant — the self-proclaimed neuroscience prodigy — harbors a secret so embarrassing it could shake the very fabric of her dignity. An old @channel handle. Find it, and her profile is yours. El. Psy. Kongroo.
 
 ### Traduction
 
-> *Muhahaha ! L'Organisation croit pouvoir me réduire au silence, mais moi, Hououin Kyouma, j'ai découvert une piste. Mon assistante — qui se proclame prodige des neurosciences — cache un secret si embarrassant qu'il pourrait ébranler les fondements mêmes de sa dignité. Un ancien pseudo sur @channel. Trouve-le, et son profil t'appartient. El. Psy. Kongroo.*
+> Muhahaha ! L'Organisation croit pouvoir me réduire au silence, mais moi, Hououin Kyouma, j'ai découvert une piste. Mon assistante — qui se proclame prodige des neurosciences — cache un secret si embarrassant qu'il pourrait ébranler les fondements mêmes de sa dignité. Un ancien pseudo sur @channel. Trouve-le, et son profil t'appartient. El. Psy. Kongroo.
 
 **Accès** : `https://w03xj6cjsucj.boroctf.com`
 

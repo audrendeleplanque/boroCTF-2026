@@ -11,12 +11,12 @@
 
 ### Texte original
 
-> *This famous Freehold High School alum skipped his graduation and became a best-selling artist.*
+> This famous Freehold High School alum skipped his graduation and became a best-selling artist.
 > Flag Format: boroCTF{first_last}
 
 ### Traduction
 
-> *Cet ancien élève du lycée Freehold, devenu célèbre, a fait l'impasse sur la remise des diplômes et s'est imposé comme un artiste à succès*
+> Cet ancien élève du lycée Freehold, devenu célèbre, a fait l'impasse sur la remise des diplômes et s'est imposé comme un artiste à succès
 > Format du flag : boroCTF{first_last}
 
 ---

@@ -11,9 +11,9 @@
 
 ### Texte original
 
-> *What is this AI slop??? Which AI made this!!!
+> What is this AI slop??? Which AI made this!!!
 > format: boroCTF{ai_in_lowercase}
-> WARNING ONLY 5 ATTEMPTS.*
+> WARNING ONLY 5 ATTEMPTS.
 
 ### Traduction
 

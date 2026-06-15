@@ -10,13 +10,11 @@
 ## 📝 Description
 
 ### Texte original
-> *Stabbed by his own men. Each stab wound marked how betrayed he was. Can you reverse the damage?*
-> 
+> Stabbed by his own men. Each stab wound marked how betrayed he was. Can you reverse the damage?
 > erurFWI{@iu13qgq0pru3}
 
 ### Traduction
-> *Poignardé par ses propres hommes. Chaque coup de couteau témoignait de la trahison dont il avait été victime. Pouvez-vous réparer les dégâts ?*
-> 
+> Poignardé par ses propres hommes. Chaque coup de couteau témoignait de la trahison dont il avait été victime. Pouvez-vous réparer les dégâts ?
 > erurFWI{@iu13qgq0pru3}
 
 ---

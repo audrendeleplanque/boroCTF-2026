@@ -11,11 +11,11 @@
 
 ### Texte original
 
-> *I lost my flag in a stockpile of fake flags :(. Can you help me find it?*
+> I lost my flag in a stockpile of fake flags :(. Can you help me find it?
 
 ### Traduction
 
-> *J'ai perdu mon drapeau dans une pile de faux drapeaux :(. Tu peux m'aider à le retrouver ?*
+> J'ai perdu mon drapeau dans une pile de faux drapeaux :(. Tu peux m'aider à le retrouver ?
 
 **Fichiers fournis** :
 - `chal`

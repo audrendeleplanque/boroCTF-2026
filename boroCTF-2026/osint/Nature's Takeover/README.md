@@ -11,12 +11,12 @@
 
 ### Texte original
 
-> *You can't beat nature. What is this?*
+> You can't beat nature. What is this?
 > Example if the flag was "not the flag": boroCTF{not_the_flag}
 
 ### Traduction
 
-> *Tu peux battre la nature. Qu'est ce que c'est ?*
+> Tu peux battre la nature. Qu'est ce que c'est ?
 > Exemple, si le flag est "not the flag": boroCTF{not_the_flag}
 
 **Fichiers fournis** :

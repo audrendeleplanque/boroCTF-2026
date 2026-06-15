@@ -10,10 +10,10 @@
 ## 📝 Description
 
 ### Texte original
-> *My friend sent me a random codebase with a Library of Babel implementation. Apparently the author is well known to hide secrets in his code, but I don't see any here.*
+> My friend sent me a random codebase with a Library of Babel implementation. Apparently the author is well known to hide secrets in his code, but I don't see any here.
 
 ### Traduction
-> *Un ami m'a envoyé un code au hasard contenant une implémentation de Library of Babel. Apparemment, l'auteur est connu pour cacher des secrets dans son code, mais je n'en vois aucun ici.*
+> Un ami m'a envoyé un code au hasard contenant une implémentation de Library of Babel. Apparemment, l'auteur est connu pour cacher des secrets dans son code, mais je n'en vois aucun ici.
 
 **Fichiers fournis** :
 - `babel.py`

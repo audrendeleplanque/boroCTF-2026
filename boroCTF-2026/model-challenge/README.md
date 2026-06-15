@@ -9,7 +9,7 @@
 
 ## 📝 Description
 
-> *Texte exact de l'énoncé du challenge.*
+> Texte exact de l'énoncé du challenge.
 
 **Fichiers fournis** :
 - `fichier1.py`

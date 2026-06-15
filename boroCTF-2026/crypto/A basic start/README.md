@@ -10,10 +10,10 @@
 ## 📝 Description
 
 ### Texte original
-> *We, the Boro Cyber Division have been spying on the chats of a group of local hackers. We used to be able to decrypt their chats from base64 but they seemed to have changed their encoding. Can you find out what they’re talking about now?*
+> We, the Boro Cyber Division have been spying on the chats of a group of local hackers. We used to be able to decrypt their chats from base64 but they seemed to have changed their encoding. Can you find out what they’re talking about now?
 
 ### Traduction
-> *Nous, la division cyber de Boro, avons espionné les discussions d'un groupe de hackers locaux. Auparavant, nous parvenions à décrypter leurs messages codés en base64, mais il semblerait qu'ils aient changé de codage. Pouvez-vous découvrir de quoi ils parlent maintenant ?*
+> Nous, la division cyber de Boro, avons espionné les discussions d'un groupe de hackers locaux. Auparavant, nous parvenions à décrypter leurs messages codés en base64, mais il semblerait qu'ils aient changé de codage. Pouvez-vous découvrir de quoi ils parlent maintenant ?
 
 **Fichiers fournis** :
 - `chal.txt`

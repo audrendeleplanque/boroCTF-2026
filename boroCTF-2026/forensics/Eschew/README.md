@@ -11,11 +11,11 @@
 
 ### Texte original
 
-> *My image is flipped and flopped :(.*
+> My image is flipped and flopped :(.
 
 ### Traduction
 
-> *Mon image est à l'envers et à l'envers :(.*
+> Mon image est à l'envers et à l'envers :(.
 
 **Fichiers fournis** :
 - `eschew.png`

@@ -10,10 +10,10 @@
 ## 📝 Description
 
 ### Texte original
-> *The hexagonal colors are simply beautiful.*
+> The hexagonal colors are simply beautiful.
 
 ### Traduction
-> *Les couleurs hexagonales sont tout simplement magnifiques.*
+> Les couleurs hexagonales sont tout simplement magnifiques.
 
 **Fichiers fournis** :
 - `dance.png`

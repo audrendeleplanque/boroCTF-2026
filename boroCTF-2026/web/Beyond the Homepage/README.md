@@ -11,11 +11,11 @@
 
 ### Texte originial
 
-> *There's more to what you see...*
+> There's more to what you see...
 
 ### Traduction
 
-> *Ce n'est pas tout...*
+> Ce n'est pas tout...
 
 **Accès** : `https://6ox3t3alzl51.boroctf.com/`
 

@@ -11,11 +11,11 @@
 
 ### Texte original
 
-> *aww... so cute!*
+> aww... so cute!
 
 ### Traduction
 
-> *Oh... Trop mignon !*
+> Oh... Trop mignon !
 
 **Fichiers fournis** :
 - `meow.jpg`

@@ -10,13 +10,11 @@
 ## 📝 Description
 
 ### Texte original
-> *Challenge: So is this not the flag? If its not not, then what else?*
-> 
+> Challenge: So is this not the flag? If its not not, then what else?
 > 9d 90 8d 90 bc ab b9 84 8b 97 ce db a0 96 8c a0 91 cf 8b a0 91 90 8b a0 8b 97 cc a0 99 93 bf 98 82
 
 ### Traduction
-> *Question : Ce n'est donc pas le drapeau ? Si ce n'est pas ça, alors qu'est-ce que c'est ?*
-> 
+> Question : Ce n'est donc pas le drapeau ? Si ce n'est pas ça, alors qu'est-ce que c'est ?
 > 9d 90 8d 90 bc ab b9 84 8b 97 ce db a0 96 8c a0 91 cf 8b a0 91 90 8b a0 8b 97 cc a0 99 93 bf 98 82
 
 ---

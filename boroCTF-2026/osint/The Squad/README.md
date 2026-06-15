@@ -11,11 +11,11 @@
 
 ### Texte original
 
-> *What is the name of the team that organized boroCTF?*
+> What is the name of the team that organized boroCTF?
 
 ### Traduction
 
-> *Quelle le nom de l'équipe qui organise boroCTF ?*
+> Quelle le nom de l'équipe qui organise boroCTF ?
 
 ---
  
