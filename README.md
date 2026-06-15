@@ -9,7 +9,7 @@
 
 | CTF | Date | Score | Classement | Challenges résolus |
 |-----|------|-------|------------|--------------------|
-| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | `3300 pts` | `330 / 1930` | `32 / 74` |
+| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | `3300 pts` | `349 / 1930` | `32 / 74` |
 
 ---
 
