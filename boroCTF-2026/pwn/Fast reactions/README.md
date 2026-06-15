@@ -15,7 +15,7 @@
 
 ### Traduction
 
-> Besoin de plus de mot par minutes ? Essaies monkeytype.
+> Besoin de plus de mots par minutes ? Essaies monkeytype.
 
 **Accès** : `nc tnkemaq46125.boroctf.com 56354`
 
