@@ -9,7 +9,7 @@
 
 | CTF | Date | Score | Classement | Challenges résolus |
 |-----|------|-------|------------|--------------------|
-| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | — pts | —/— | —/— |
+| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | `3300 pts` | `330 / 1930` | `32 / 74` |
 
 ---
 
@@ -18,36 +18,37 @@
 | # | Challenge | Catégorie | Points | Writeup |
 | --- | --- | --- | --- | --- |
 | 1 | Boro Coin 2 | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Boro%20Coin%202) |
-| 2 | Boro Coin 1 | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/boro-coin-1/) |
-| 3 | Mark Zuckerburg | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/mark-zuckerburg/) |
-| 4 | Hidden Meaning | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/hidden-meaning/) |
-| 5 | Oops... | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/oops/) |
-| 6 | Physical Access >> | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/physical-access/) |
-| 7 | Not Your Time | `rev` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/rev/not-your-time/) |
-| 8 | Hidden but definitely not | `rev` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/rev/hidden-but-definitely-not/) |
-| 9 | Coming Together | `pwn` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/pwn/coming-together/) |
-| 10 | Fast Reactions | `pwn` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/pwn/fast-reactions/) |
-| 11 | Cracking the Vault | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/cracking-the-vault/) |
-| 12 | Flipper's Dilemma | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/flippers-dilemma/) |
-| 13 | Drone Dash | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/drone-dash/) |
-| 14 | dotdotslashflagtxt | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/dotdotslashflagtxt/) |
-| 15 | Flight | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/flight/) |
-| 16 | So Many Layers | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/so-many-layers/) |
-| 17 | Next Challenge | `pwn` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/pwn/next-challenge/) |
-| 18 | Grep'n it | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/grepn-it/) |
-| 19 | File Me to the Moon | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/file-me-to-the-moon/) |
-| 20 | kitty kitty meow meow | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/kitty-kitty-meow-meow/) |
-| 21 | Eschew | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/eschew/) |
-| 22 | The Squad | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/the-squad/) |
-| 23 | Nature's Takeover | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/natures-takeover/) |
-| 24 | Boro Hero | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/boro-hero/) |
-| 25 | boro-senpai 1 | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/boro-senpai-1/) |
-| 26 | Beyond the Homepage | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/beyond-the-homepage/) |
-| 27 | AI Slop | `misc` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/misc/ai-slop/) |
-| 28 | Disco | `crypto` | 200 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/disco/) |
-| 29 | Not the Flag | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/not-the-flag/) |
-| 30 | Et Tu, Brute | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/et-tu-brute/) |
-| 31 | A basic start | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/a-basic-start/) |
+| 2 | Boro Coin 1 | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Boro%20Coin%201) |
+| 3 | Mark Zuckerburg | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/Mark%20Zuckerburg) |
+| 4 | Hidden Meaning | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/Hidden%20Meaning) |
+| 5 | Oops... | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/Oops) |
+| 6 | Physical Access >> | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/Physical%20Access) |
+| 7 | Not Your Time | `rev` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/rev/Not%20Your%20Time) |
+| 8 | Hidden but definitely not | `rev` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/rev/Hidden%20but%20definitely%20not) |
+| 9 | Coming Together | `pwn` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/pwn/Coming%20Together) |
+| 10 | Fast Reactions | `pwn` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/pwn/Fast%20reactions) |
+| 11 | Cracking the Vault | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/Cracking%20the%20Vault) |
+| 12 | Flipper's Dilemma | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Flipper's%20Dilemma) |
+| 13 | Drone Dash | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/Drone%20Dash) |
+| 14 | dotdotslashflagtxt | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/dotdotslashflagtxt) |
+| 15 | Flight | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Flight/) |
+| 16 | So Many Layers | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/So%20Many%20Layers) |
+| 17 | Next Challenge | `pwn` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/pwn/Next%20Challenge) |
+| 18 | Grep'n it | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/Grep'n%20it) |
+| 19 | File Me to the Moon | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/File%20Me%20to%20the%20Moon) |
+| 20 | kitty kitty meow meow | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/kitty%20kitty%20meow%20meow) |
+| 21 | Eschew | `forensics` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/forensics/Eschew) |
+| 22 | The Squad | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/The%20Squad) |
+| 23 | Nature's Takeover | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/Nature's%20Takeover) |
+| 24 | Boro Hero | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/Boro%20Hero) |
+| 25 | boro-senpai 1 | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/boro-senpai%201) |
+| 26 | Beyond the Homepage | `web` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/web/Beyond%20the%20Homepage) |
+| 27 | AI Slop | `misc` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/misc/AI%20Slop) |
+| 28 | Disco | `crypto` | 200 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Disco/) |
+| 29 | Not the Flag | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Not%20the%20Flag) |
+| 30 | Et Tu, Brute | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Et%20Tu%2C%20Brute) |
+| 31 | A basic start | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/A%20basic%20start/) |
+| 32 | Minecraftsint | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/Minecraftsint) |
 
 ### Statistiques
 
