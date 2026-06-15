@@ -21,7 +21,7 @@
 > Autrefois héros de Tsushima, il n'est plus aujourd'hui qu'un guerrier sanguinaire.
 > Mettez fin à cette folie, je vous en prie.
 
-Fichiers : 
+**Fichiers fournis** :
 - `boss`
 - `boss.c`
 - `server.py`
