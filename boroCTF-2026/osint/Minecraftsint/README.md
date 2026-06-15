@@ -1,4 +1,4 @@
-# Boro Hero
+# Minecraftsint
 
 > **CTF** : boroCTF 2026  
 > **Catégorie** : `osint` · **Points** : 100 · **Solves** : 42  
