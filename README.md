@@ -1,15 +1,24 @@
-  # 🚩 CTF Writeups — Audren
-
-> Collection de mes writeups pour les CTF auxquels j'ai participé.  
-> Chaque dossier contient une analyse détaillée, les scripts de résolution et les fichiers du challenge.
-
+  # 🚩 CTF Writeups — BoroCTF
 ---
 
 ## 📊 Stats globales
 
 | CTF | Date | Score | Classement | Challenges résolus |
 |-----|------|-------|------------|--------------------|
-| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | `3300 pts` | `349 / 1930` | `32 / 74` |
+| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | `3300 pts` | `349 / 1930` | `32 / 109` |
+
+## Répartition des défis par catégorie
+
+| Catégorie | Nombre Total | Résolus | Pourcentage | Points obtenus |
+|-----------|--------------|---------|-------------|----------------|
+| 🕵️ OSINT | 23 | 7 | 30.43 % | 700 |
+| 🔍 Forensics | 18 | 5 | 27.77 % | 500 |
+| 🔐 Crypto | 14 | 9 | 64.28 % | 1000 |
+| 🧩 Misc | 13 | 1 | 7.69 % | 100 |
+| 🌐 Web | 11 | 5 | 45.45 % | 500 |
+| 💥 Pwn | 11 | 3 | 27.27 % | 300 |
+| ⚙️ Rev | 10 | 2 | 20.00 % | 200 |
+| 🌍 Geosint | 9 | 0 | 0.00 % | 0 |
 
 ---
 
@@ -49,12 +58,6 @@
 | 30 | Et Tu, Brute | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/Et%20Tu%2C%20Brute) |
 | 31 | A basic start | `crypto` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/crypto/A%20basic%20start/) |
 | 32 | Minecraftsint | `osint` | 100 | [🔗 Lien](https://github.com/audrendeleplanque/boroCTF-2026/tree/main/boroCTF-2026/osint/Minecraftsint) |
-
-### Statistiques
-
-🟢 Solves (43.24%) 🔴 Fails (56.76%)
-
-![OSINT](https://img.shields.io/badge/OSINT-21.88%25-ff69b4) ![Crypto](https://img.shields.io/badge/Crypto-28.13%25-blueviolet) ![Forensics](https://img.shields.io/badge/Forensics-15.63%25-red) ![Rev](https://img.shields.io/badge/Rev-6.25%25-ff1493) ![Pwn](https://img.shields.io/badge/Pwn-9.38%25-orange) ![web](https://img.shields.io/badge/web-15.63%25-blue) ![Misc](https://img.shields.io/badge/Misc-3.13%25-brightgreen)
 
 ---
 
