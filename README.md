@@ -1,11 +1,11 @@
-  # 🚩 CTF Writeups — BoroCTF
+  # 🚩 CTF Writeups — BoroCTF (Solo)
 ---
 
 ## 📊 Stats globales
 
 | CTF | Date | Score | Classement | Challenges résolus |
 |-----|------|-------|------------|--------------------|
-| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | `3300 pts` | `349 / 1930` | `32 / 109` |
+| [boroCTF 2026](https://boroctf.com/) | 12/06/2026 | `3300 pts` | `271 / 1930` | `32 / 109` |
 
 ## Répartition des défis par catégorie
 
